@@ -1,1 +1,1 @@
-python detect.py --cfg cfg/yolor_p6.cfg --weights best_overall.pt --conf 0.08 --img-size 1280 --device 0 --source 1.mp4
+python detect_base.py --cfg cfg/yolor_p6.cfg --weights best_overall.pt --conf 0.08 --img-size 1280 --device 0 --source 1.mp4
